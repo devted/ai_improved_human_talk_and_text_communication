@@ -1,7 +1,7 @@
-# TatMe.ai: A "Talk and Text" AI-guided Framework for Improved Human Communication
+# TATme.ai: A "Talk and Text" AI-guided Framework for Improved Human Communication
 
 ## Brand
-TatMe.ai ("Talk and Text Me") is the commercial implementation of this framework.
+TATme.ai ("Talk and Text Me") is the commercial implementation of this framework.
 
 Date: March 19, 2026
 Author: Ted Peterson
@@ -22,7 +22,7 @@ STT (i.e. Whisper) -> AI middle layer -> TTS (i.e. ElevenLabs) per-user voice. T
 - Two-sided marketplaces requiring human communication can be improved by utilizing audio communication as much as possible. Both parties feel comfortable and safe and AI assists with safety and domain-specific model context.
 
 ## First Implementation
-TipSpear (tipspear.com) -- a transparent gig worker marketplace -- serves as the first commercial deployment of the TatMe.ai framework.
+TipSpear (tipspear.com) -- a transparent gig worker marketplace -- serves as the first commercial deployment of the TATme.ai framework.
 
 ### Supervisor Multiplexing
 Human supervisors can monitor multiple simultaneous conversations via real-time text transcripts, scanning efficiently and interjecting via voice only when needed.
@@ -51,7 +51,7 @@ Green/yellow/red trust indicators surface relevant history while preserving anon
 
 ### Core Philosophy
 
-The TatMe.ai framework treats human communication as irreplaceable, not a problem to be automated away. Technology exists to make human-to-human interaction easier, safer, and more transparent.
+The TATme.ai framework treats human communication as irreplaceable, not a problem to be automated away. Technology exists to make human-to-human interaction easier, safer, and more transparent.
 
 A worker is an extension of the client's own body, not a robotic replacement. Full contextual transparency allows both parties to extend trust intelligently, communicate continuously, and accommodate each other's limitations gracefully.
 
